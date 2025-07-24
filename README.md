@@ -1,8 +1,5 @@
-## 1. Creating a Virtual Machine on Azure
+### Create VM – Basic Settings
 
-This screenshot shows the initial configuration step for deploying a virtual machine using the Microsoft Azure portal.  
-In this step, we define the subscription, resource group, virtual machine name, region, and availability zone.  
-The user selected a specific zone (Zone 1) in the Switzerland North region.
+![Figura 1 – Tela de criação da máquina virtual no Azure](prints/create-vm.png)
 
-![Create VM – Basic Settings](prints/create-vm.png)  
-*Figure 1 – Basic configuration screen for creating a virtual machine in Azure*
+*Figura 1 – Tela de criação da máquina virtual no Azure*
