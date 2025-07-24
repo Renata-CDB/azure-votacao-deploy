@@ -1,5 +1,3 @@
-### Create VM – Basic Settings
+![Figure 1 – Virtual Machine creation screen on Azure](prints/create-vm.png)
 
-!Figura 1 – Tela de criação da máquina virtual no Azure(prints/create-vm.png)
-
-*Figura 1 – Tela de criação da máquina virtual no Azure*
+*Figure 1 – Virtual Machine creation screen on Azure*
